@@ -1,0 +1,12 @@
+A10526,Jenny,Champion,34 Duck Lake,Akron,OH,44305,330-555-8744,2/25/1975,F
+A10235,Robert,Layna,48 Mettle Cove,Akron,OH,44308,330-555-1400,6/15/1982,M
+A10845,Angel,Ramirez,583 South 1st St,Akron,OH,44305,330-555-1982,9/1/1970,M
+A10486,Richard,Farmer,550 Riverside Dr,Akron,OH,44308,330-555-0425,10/31/1986,M
+B18536,Montgomery,Stewart,5 Ladle Lane,Akron,OH,44302,330-555-9763,10/28/1982,M
+B19356,Linda,Francis,235 Hwy 5,Akron,OH,44308,330-555-6246,7/4/1985,F
+B15264,Lexie,Garcia,4 Lakeside Dr,Akron,OH,44305,330-555-7498,8/4/1955,F
+A12565,Glenda,Campbell,3 River Road,Akron,OH,44308,330-555-0100,4/15/1968,F
+A12865,Simone,Quinn,98 South Hwy 8,Akron,OH,44305,330-555-0816,5/4/1976,F
+A12465,Helen,Quincy,1907 Montalba Rd,Akron,OH,44308,330-555-8765,6/14/1968,F
+B15678,James,Quincy,1907 Montalba Rd,Akron,OH,44308,330-555-8765,7/8/1965,M
+A15671,Kelly,Balarbar,568 Hwy 5,Akron,OH,44308,330-555-8761,1/5/1969,F

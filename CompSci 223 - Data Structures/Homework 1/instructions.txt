@@ -1,0 +1,8 @@
+¨Write a method reverse that takes an ArrayList and reverse it.
+¨Write a method remove that takes an ArrayList and a target and removes all elements that match the target.  You may assume the ArrayList contains only integers.
+¨Write a method arrayDouble that takes an ArrayList<Integer> and return an ArrayList<Integer> that contains every element of the input array doubled.  If the input array is {1,2,3}, the return array is {2,4,6}.
+¨Implement the indexOf method of the KWArrayList<E> class.
+¨Provide a constructor for KWArrayList<E> that accepts an int argument that represents the initial capcity.  Use the passed in capacity as the capcity of the array list instead of using INITIAL_CAPACITY
+ 
+ 
+You have to complete the methods at the end of the KWArraYlist.java file.  Submit a zip file of your solution to D2L HW1 dropbox.
