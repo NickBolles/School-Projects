@@ -1,4 +1,4 @@
-**School Projects**
+#School Projects
 
 This is a collection of all of the projects that I have done in school. Although I have tried to make this a comprehensive list, multiple issues have kept it from becoming complete, like missing assignment sheets and technical issues (cough cough Onedrive sync issues….)
 

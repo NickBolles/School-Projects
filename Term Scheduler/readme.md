@@ -1,4 +1,4 @@
-**Term Scheduler**
+#Term Scheduler
 
 This is a spreadsheet I made that calculates your GPA and makes use of advanced Excel features and functions such as:
 
