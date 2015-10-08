@@ -15,3 +15,6 @@ This is a spreadsheet I made that calculates your GPA and makes use of advanced 
 - and more…
 
 I made it fairly general so that I could distribute it to others. Several others have used it and love it. This is partially the motivation for my app, Four See. This feature will be coming in a future version of the app, because it is more complex than the current use of the app.
+
+##My Term Schedule##
+An Example, of my actual course schedule, is included in this folder named "Nicks Term Schedule.xlsm"
